@@ -1,0 +1,11 @@
+Source: mxrpi-docs
+Section: doc
+Priority: optional
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: mxrpi-docs
+Architecture: all
+Depends: ${misc:Depends}
+Description: MX/Raspberry Pi respin docs
