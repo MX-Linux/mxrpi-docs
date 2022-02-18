@@ -1,0 +1,8 @@
+The following first steps are recommended to adjust the display and associated visible traits for touchscreen use.
+
+1. On the login screen, pull down the human figure icon and check to launch a virtual keyboard 
+2. Launch Settings Manager > Tint2 Manager, deselect any running items, check the two whose name begins with “Touchscreen” and click Apply. This will provide a dock and panel specialized for the touchscreen
+3. Adjust scrollbar size as needed in ~/.config/gtk-3.0/gtk.css 
+4. Use Menu > Appearance > Theme > Appearance in Openbox, or Menu > Appearance > Style in Fluxbox, to select larger titlebar controls. 
+
+Details in the "MXRPi-Manual" 
