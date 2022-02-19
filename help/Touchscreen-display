@@ -1,0 +1,242 @@
+################### CS ###################
+
+Jak se přizpůsobit používání dotykové obrazovky
+
+1. Přihlašovací obrazovka: Stažením lidské postavy na horní liště vyberte virtuální klávesnici. 
+
+2. Pracovní plocha: Na obrazovce se zobrazí klávesnice, která se používá pro ovládání klávesnice:
+
+-- Klikněte na Správce nastavení > Správce odstínů2 a zrušte zaškrtnutí všech. Poté zaškrtněte dvě, jejichž název začíná slovy "Touchscreen", a klikněte na tlačítko Apply. 
+
+-- Pro snadnější posouvání v okně upravte velikost posuvníku podle potřeby v souboru ~/.config/gtk-3.0/gtk.css. 
+
+-- V případě potřeby vyberte větší ovládací prvky titulkového pruhu. OPENBOX: klikněte na Menu > Vzhled > Motiv; FLUXBOX:  Nabídka > Vzhled > Styl.
+
+3. Podrobnosti naleznete v příručce "MXRPi-Manual".
+
+################### DA ###################
+
+Sådan justeres til brug af touchscreen
+
+1. Login-skærm: Træk den menneskelige figur nedad på den øverste bjælke for at vælge et virtuelt tastatur 
+
+2. Skrivebord:
+
+-- Klik på Settings Manager > Tint2 Manager, og fjern markeringen af alle. Markér derefter de to, hvis navn begynder med "Touchscreen", og klik på Anvend. 
+
+-- For at rulle lettere i et vindue skal du justere størrelsen af rullebjælken efter behov i ~/.config/gtk-3.0/gtk.css 
+
+-- Vælg større kontrolelementer på titellinjen, hvis det er nødvendigt. OPENBOX: Klik på Menu > Udseende > Tema; FLUXBOX:  
+
+3. Detaljer kan findes i "MXRPi-Manual"
+
+################### DE ###################
+
+So stellen Sie sich auf die Verwendung des Touchscreens ein
+
+1. Anmeldebildschirm: Ziehen Sie die menschliche Figur in der oberen Leiste nach unten, um eine virtuelle Tastatur auszuwählen. 
+
+2. Desktop:
+
+-- Klicken Sie auf Einstellungsmanager > Tint2 Manager und deaktivieren Sie alle. Markieren Sie dann die beiden, deren Name mit "Touchscreen" beginnt, und klicken Sie auf Übernehmen. 
+
+-- Um das Scrollen innerhalb eines Fensters zu erleichtern, passen Sie die Größe der Bildlaufleiste in ~/.config/gtk-3.0/gtk.css an. 
+
+-- Wählen Sie größere Titelleisten-Steuerelemente, falls erforderlich. OPENBOX: Klicken Sie auf Menü > Erscheinungsbild > Thema; FLUXBOX:  Menü > Erscheinungsbild > Stil.
+
+3. Einzelheiten finden Sie im "MXRPi-Handbuch".
+
+################### EL ###################
+
+Πώς να προσαρμοστείτε για χρήση οθόνης αφής
+
+1. Οθόνη σύνδεσης: τραβήξτε προς τα κάτω την ανθρώπινη φιγούρα στην επάνω μπάρα για να επιλέξετε ένα εικονικό πληκτρολόγιο. 
+
+2. Επιφάνεια εργασίας:
+
+-- Κάντε κλικ στο Διαχείριση ρυθμίσεων > Διαχείριση απόχρωσης2 και καταργήστε την επιλογή όλων. Στη συνέχεια, τσεκάρετε τα δύο των οποίων το όνομα αρχίζει με "Οθόνη αφής" και κάντε κλικ στο κουμπί Εφαρμογή. 
+
+-- Για να μετακινηθείτε πιο εύκολα μέσα σε ένα παράθυρο, προσαρμόστε το μέγεθος της γραμμής κύλισης ανάλογα με τις ανάγκες στο αρχείο ~/.config/gtk-3.0/gtk.css 
+
+-- Επιλέξτε μεγαλύτερα στοιχεία ελέγχου της γραμμής τίτλου, αν χρειάζεται. OPENBOX: κάντε κλικ στην επιλογή Μενού > Εμφάνιση > Θέμα:  Μενού > Εμφάνιση > Στυλ.
+
+3. Λεπτομέρειες μπορείτε να βρείτε στο "MXRPi-Manual"
+
+################### EN ###################
+
+How To Adjust For Touchscreen Use
+
+1. Login screen: pull down the human figure on the top bar to select a virtual keyboard 
+
+2. Desktop:
+
+-- Click Settings Manager > Tint2 Manager and uncheck all. Then check the two whose name begins with “Touchscreen” and click Apply. 
+
+-- To scroll more easily within a window, adjust scrollbar size as needed in ~/.config/gtk-3.0/gtk.css 
+
+-- Select larger titlebar controls if needed. OPENBOX: click Menu > Appearance > Theme; FLUXBOX:  Menu > Appearance > Style.
+
+3. Details can be found in the "MXRPi-Manual" 
+
+################### ES ###################
+
+Cómo ajustar el uso de la pantalla táctil
+
+1. Pantalla de inicio de sesión: tire hacia abajo de la figura humana en la barra superior para seleccionar un teclado virtual 
+
+2. Escritorio:
+
+-- Haga clic en Administrador de configuración > Administrador de Tint2 y desmarque todo. A continuación, marque las dos cuyo nombre empieza por "Pantalla táctil" y haga clic en Aplicar. 
+
+-- Para desplazarse más fácilmente dentro de una ventana, ajuste el tamaño de la barra de desplazamiento según sea necesario en ~/.config/gtk-3.0/gtk.css 
+
+-- Seleccione controles de la barra de título más grandes si es necesario. OPENBOX: haga clic en Menú > Apariencia > Tema; FLUXBOX:  Menú > Apariencia > Estilo.
+
+3. Los detalles se pueden encontrar en el "MXRPi-Manual"
+
+################### FR ###################
+
+Comment s'adapter à l'utilisation de l'écran tactile
+
+1. Écran de connexion : tirez vers le bas la figure humaine sur la barre supérieure pour sélectionner un clavier virtuel. 
+
+2. Bureau :
+
+-- Cliquez sur Gestionnaire de paramètres > Gestionnaire Tint2 et décochez tout. Cochez ensuite les deux dont le nom commence par "Touchscreen" et cliquez sur Appliquer. 
+
+-- Pour faciliter le défilement dans une fenêtre, ajustez la taille de la barre de défilement selon les besoins dans ~/.config/gtk-3.0/gtk.css. 
+
+-- Sélectionnez des contrôles de barre de titre plus grands si nécessaire. OPENBOX : cliquez sur Menu > Apparence > Thème ; FLUXBOX :  Menu > Apparence > Style.
+
+3. Les détails peuvent être trouvés dans le "MXRPi-Manual".
+
+################### IT ###################
+
+Come regolarsi per l'uso del touchscreen
+
+1. Schermata di accesso: tirare giù la figura umana sulla barra superiore per selezionare una tastiera virtuale 
+
+2. Desktop:
+
+-- Clicca su Settings Manager > Tint2 Manager e deseleziona tutto. Poi spunta i due il cui nome inizia con "Touchscreen" e clicca su Applica. 
+
+-- Per scorrere più facilmente all'interno di una finestra, regola la dimensione della barra di scorrimento come necessario in ~/.config/gtk-3.0/gtk.css 
+
+-- Seleziona controlli della barra del titolo più grandi se necessario. OPENBOX: clicca su Menu > Aspetto > Tema; FLUXBOX:  Menu > Aspetto > Stile.
+
+3. I dettagli possono essere trovati nel "MXRPi-Manual".
+
+################### JA ###################
+
+タッチスクリーン使用時の調整方法
+
+1. ログイン画面：トップバーの人型をプルダウンして、バーチャルキーボードを選択する 
+
+2. デスクトップの場合
+
+-- 設定マネージャ」→「Tint2マネージャ」をクリックし、すべてのチェックを外します。次に、名前が「Touchscreen」で始まる2つにチェックを入れ、「適用」をクリックします。
+
+-- ウィンドウ内でのスクロールを容易にするために、~/.config/gtk-3.0/gtk.css で必要に応じてスクロールバーのサイズを調整します。
+
+-- 必要に応じて、より大きなタイトルバー・コントロールを選択してください。OPENBOX: メニュー > 外観 > テーマ、FLUXBOX: メニュー > 外観 > スタイルをクリックします。 メニュー」→「外観」→「スタイル」をクリックします。
+
+3. 詳細は "MXRPi-Manual "に記載されています。
+
+################### NL ###################
+
+Aanpassen voor gebruik van het aanraakscherm
+
+1. Inlogscherm: trek de menselijke figuur op de bovenste balk naar beneden om een virtueel toetsenbord te selecteren 
+
+2. Bureaublad:
+
+-- Klik op Settings Manager > Tint2 Manager en vink alles uit. Vink vervolgens de twee aan waarvan de naam begint met "Aanraakscherm" en klik op Toepassen. 
+
+-- Om gemakkelijker binnen een venster te kunnen scrollen, past u de grootte van de scrollbar aan in ~/.config/gtk-3.0/gtk.css 
+
+-- Selecteer grotere titelbalk controls indien nodig. OPENBOX: klik op Menu > Uiterlijk > Thema; FLUXBOX:  Menu > Uiterlijk > Stijl.
+
+3. Details zijn te vinden in de "MXRPi-Manual"
+
+################### PL ###################
+
+Jak dostosować się do obsługi ekranu dotykowego
+
+1. Ekran logowania: pociągnij w dół postać ludzką na górnym pasku, aby wybrać wirtualną klawiaturę 
+
+2. Pulpit:
+
+-- Kliknij Settings Manager > Tint2 Manager i usuń zaznaczenie wszystkich. Następnie zaznacz dwa, których nazwa zaczyna się od "Touchscreen" i kliknij Zastosuj. 
+
+-- Aby łatwiej przewijać okno, dostosuj rozmiar paska przewijania w ~/.config/gtk-3.0/gtk.css. 
+
+-- W razie potrzeby wybierz większe elementy sterujące paska tytułowego. OPENBOX: kliknij Menu > Wygląd > Temat; FLUXBOX:  Menu > Wygląd > Styl.
+
+3. Szczegóły można znaleźć w "MXRPi-Manual"
+
+################### PT ###################
+
+Como ajustar para utilização do ecrã táctil
+
+1. Ecrã de login: puxar para baixo a figura humana na barra superior para seleccionar um teclado virtual 
+
+2. Ambiente de trabalho:
+
+-- Clique em Settings Manager > Tint2 Manager e desmarque tudo. Depois verificar os dois cujo nome começa com "Touchscreen" e clicar em Aplicar. 
+
+-- Para percorrer mais facilmente dentro de uma janela, ajuste o tamanho da barra de deslocamento conforme necessário em ~/.config/gtk-3.0/gtk.css 
+
+-- Seleccionar controlos maiores da barra de títulos, se necessário. OPENBOX: clicar em Menu > Aspecto > Tema; FLUXBOX:  Menu > Aparência > Estilo.
+
+3. Detalhes podem ser encontrados no "MXRPi-Manual".
+
+################### RU ###################
+
+Как настроить сенсорный экран
+
+1. Экран входа в систему: потяните вниз фигурку человека на верхней панели, чтобы выбрать виртуальную клавиатуру 
+
+2. Рабочий стол:
+
+-- Нажмите Менеджер настроек > Tint2 Manager и снимите все галочки. Затем отметьте два, название которых начинается с "Touchscreen", и нажмите Применить. 
+
+-- Для более удобной прокрутки в окне настройте размер полосы прокрутки в ~/.config/gtk-3.0/gtk.css. 
+
+-- При необходимости выберите элементы управления заголовком большего размера. OPENBOX: нажмите Меню > Внешний вид > Тема; FLUXBOX:  Меню > Внешний вид > Стиль.
+
+3. Подробности можно найти в "MXRPi-Manual".
+
+################### SV ###################
+
+Hur du justerar för användning av pekskärm
+
+1. Inloggningsskärmen: Dra ner den mänskliga figuren i den övre baren för att välja ett virtuellt tangentbord. 
+
+2. Skrivbord:
+
+-- Klicka på Settings Manager > Tint2 Manager och avmarkera alla. Markera sedan de två vars namn börjar med "Touchscreen" och klicka på Tillämpa. 
+
+-- Om du vill bläddra lättare i ett fönster kan du justera storleken på rullgardinslisten efter behov i ~/.config/gtk-3.0/gtk.css. 
+
+-- Välj större kontroller i titellisten om det behövs. OPENBOX: klicka på Meny > Utseende > Tema; FLUXBOX:  Meny > Utseende > Tema: Meny > Utseende > Tema.
+
+3. Detaljer finns i "MXRPi-Manual".
+
+################### ZH ###################
+
+如何调整触摸屏的使用
+
+1. 登录界面：拉下顶栏上的人形，选择一个虚拟键盘 
+
+2. 桌面。
+
+-- 点击设置管理器 > Tint2管理器，取消所有的勾选。然后选中名称以 "触摸屏 "开头的两个，并点击应用。
+
+-- 为了在窗口内更容易滚动，在~/.config/gtk-3.0/gtk.css中根据需要调整滚动条大小 
+
+-- 如果需要，选择更大的标题栏控件。OPENBOX：点击菜单>外观>主题；FLUXBOX。 菜单>外观>风格。
+
+3. 详情可在 "MXRPi-Manual "中找到
+
+
+v. 22.02.19
