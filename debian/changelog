@@ -1,3 +1,9 @@
+mxrpi-docs (22.02.02) mx; urgency=medium
+
+  * remove README conflict with mxfb-docs 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 19 Feb 2022 09:44:47 -0500
+
 mxrpi-docs (22.02.01) mx; urgency=medium
 
   [jerry3904]
