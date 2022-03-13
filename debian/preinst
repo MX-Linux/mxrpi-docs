@@ -1,0 +1,16 @@
+#!/bin/sh -e
+
+case "$1" in
+  install|upgrade) dpkg-divert --quiet                                               \
+                               --add                                                 \
+                               --package mxrpi-docs           \
+                               --rename                                              \
+                               --divert /usr/share/applications/xvkbd.desktop.dpkg-dist \
+                               /usr/share/applications/xvkbd.desktop
+                   ;;
+
+                *) :
+                   ;;
+esac 
+
+#DEBHELPER#
