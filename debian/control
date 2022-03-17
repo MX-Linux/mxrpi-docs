@@ -8,5 +8,5 @@ Standards-Version: 3.9.3
 Package: mxrpi-docs
 Replaces: mxfbpi-docs
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends}, xvkbd
 Description: MX/Raspberry Pi respin docs
