@@ -6,6 +6,7 @@ Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 
 Package: mxrpi-docs
+Replaces: mxfbpi-docs
 Architecture: all
 Depends: ${misc:Depends}
 Description: MX/Raspberry Pi respin docs
